@@ -1,0 +1,3 @@
+name: ActionBar
+version: '${project.version}'
+main: io.resignedzzz.com.ActionBar
